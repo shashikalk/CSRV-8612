@@ -1,5 +1,3 @@
-package com.devfactory;
-
 public class SimpleClass {
 
     private String name = "Donald Duck";
